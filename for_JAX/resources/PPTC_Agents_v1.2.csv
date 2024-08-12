@@ -1,0 +1,61 @@
+﻿agent_number,nonproprietary_name,agent_name,agent_altnames,CHEMBLID,DRUGBANKID,agent_class
+1501,Tazemetostat,EPZ-6438,tazemetostat; E-7438,CHEMBL4298177,DB12887,EZH2 inhibitor
+1502,Eribulin,Eribulin,E-7389,CHEMBL1683590,DB08871,Microtubule inhibitor
+1503,Prexasertib,LY2606368,prexasertib,CHEMBL3544911,DB12008,CHK1 inhibitor
+1504,Englerin A,Englerin A,,CHEMBL2024567,,TRPC4/TRPC5 activator
+1505,APX3330,APX3330,E3330,CHEMBL578390,,APE1/Ref-1 inhibitor
+1506,KTN0125-TEI,KTN0125-TEI,,,,ALK antibody-drug conjugate
+1507,EPZ011989,EPZ011989,,,,EZH2 inhibitor
+1602,Entinostat,Entinostat,MS-275,CHEMBL27759,DB11841,HDAC inhibitor
+1603,OT-82,OT-82,,,,NAMPT inhibitor
+1604,Adavosertib ,AZD1775,MK-1775,CHEMBL1976040,DB11740,Wee1 inhibitor
+1605,Eltanexor,KPT-8602,,CHEMBL4297623,DB16153,XPO1 inhibitor 
+1606,Olaparib,Olaparib,Lynparza; AZD-2281,CHEMBL521686,DB09074,PARP inhibitor
+1607,Ibrutinib,Ibrutinib,PCI-32765,CHEMBL1873475,CHEMBL1873475,BTK inhibitor
+1610,Ixazomib,Ixazomib,MLN-2238,CHEMBL2141296,DB09570,Proteasome inhibitor 
+1611,Eltrombopag,Eltrombopag,,CHEMBL461101,DB06210,Thrombopoietin receptor agonist
+1614,GSK2780854A,GSK2780854A,,,,LSD1 inhibitor
+1615,5-Aza-TdCyd,5-Aza-TdCyd,,,,"DNMT1 inhibitor, cytidine analogue"
+1616,TdCyd,TdCyd,,CHEMBL1169490,,"DNMT1 inhibitor, cytidine analogue"
+1617,Regorafenib,Regorafenib,BAY-73-4506,CHEMBL1946170,DB08896,Multi-kinase inhibitor
+1618,Rovalpituzumab tesirine,Rova-T,,CHEMBL3990011,DB13017,DLL3 antibody–drug conjugate
+1619,HuBA-1-3D,HuBA-1-3D,,,,Anti-DLK1 monoclonal antibody
+1620,VTP-50469,VTP-50469,,,,Menin inhibitor
+1621,VS-4718,VS-4718,"PND-1186, SR-2516",CHEMBL3544933,DB15273,FAK kinase inhibitor 
+1622,OBI-3424,OBI-3424,TH-3424,CHEMBL4297474,DB16057,AKR1C3-activated alkylating agent prodrug
+1624,Selinexor,KPT-330,Selinexor,CHEMBL3545185,DB11942,CRM1 inhibitor
+1701,Telisotuzumab vedotin,ABBV-399,,CHEMBL3990032,DB15104,c-Met antibody-drug conjugate
+1702,Samrotamab vedotin,ABBV-085,,CHEMBL4594513,,LRRC15 antibody-drug conjugate
+1704,IMGN632,IMGN632,,CHEMBL4297991,,CD123 antibody-drug conjugate 
+1705,Seclidemstat,SP-2577,,CHEMBL4297641,,LSD1 inhibitor
+1706,CT-179,CT-179,,,,OLIG2 inhibitor
+1707,AMG 176,AMG 176,,,,MCL1 inhibitor
+1709,X4-136,X4-136,,,,CXCR4 inhibitor 
+1710,Tegavivint,Tegavivint,BC-2059,CHEMBL3601411,,Beta-catenin inhibitor
+1712,m276-PBD,m276-PBD,,,,CD276 antibody-drug conjugate
+1714,2X-121,2X-121,,CHEMBL3644587,DB16063,PARP/tankyrase inhibitor
+1715,TAK-659,TAK-659,,CHEMBL3544931,,SYK inhibitor
+1801,E7130,E7130,,,,Microtubule inhibitor
+1802,ADCT-701,ADCT-701,,,,DLL3 antibody-drug conjugate
+1803,VLS-101,VLS-101,,,,ROR1 antibody-drug conjugate
+1805,VLS-211,VLS-211,,,,ROR1 antibody-drug conjugate
+1806,UC-961,UC-961,,CHEMBL4297728,,Anti-ROR1 humanised monoclonal antibody
+1807,Trastuzumab deruxtecan,DS-8201A,Trastuzumab deruxtecan,CHEMBL4297844,DB14962,HER2-targeted antibody–drug conjugate
+1808,AMG-757,AMG-757,,,,anti-DLL3 BiTE
+1810,ONC201,ONC201,,CHEMBL4297310,DB14844,Dopamine receptor D2 (DRD2) antagonist and ClpP agonist
+1811,Duvelisib,Duvelisib,INK-1197,CHEMBL3039502,DB11952,PI3-Kinase inhibitor
+1812,AO-176,AO-176,,,,Humanized anti-CD47 IgG2 antibody
+1813,Venetoclax,ABT-199,Venetoclax,CHEMBL3137309,DB11581,BCL-2 inhibitor
+1814,Copanlisib,Copanlisib,BAY-80-6946,CHEMBL3218576,DB12483,PI3-Kinase inhibitor
+1815,BT1769,BT1769,,,,Small molecule MMP-14 targeted toxin (MMAE) conjugate
+1816,MGC018,MGC018,,CHEMBL4594576,,B7-H3 humanized IgG1/kappa antibody drug conjugate
+1817,DS73000,DS73000,,,,B7-H3 targeting antibody-drug conjugate (ADC)
+9901,Cyclophosphamide,Cyclophosphamide,"Cytoxan, Neosar, Endoxan, Procytox, Revimmune, Cycloblastin, cytophosphane, CP",CHEMBL88,DB00531,Alkylating agent
+9902,Vincristine,Vincristine,"Oncovin, Vincasar Pfs, Vincristine Sulfate, LCR, VCR",CHEMBL90555,DB00541,Microtubule inhibitor
+9903,Actinomycin D,Actinomycin D,"Dactinomycin, Cosmegen",CHEMBL1554,DB00970,Polypeptide antitumor antibiotic
+9904,Irinotecan,Irinotecan,"Camptothecin-11, CPT-11",CHEMBL481,DB00762,Topoisomerase I inhibitor
+9905,Dasatinib,Dasatinib,,CHEMBL1421,DB01254,BCR-ABL tyrosine kinase inhibitor
+9906,Methotrexate,Methotrexate,,CHEMBL34259,DB00563,Folate analog metabolic inhibitor
+9907,Selinexor,KPT-330,Selinexor,CHEMBL3545185,DB11942,CRM1 inhibitor
+9998,Tumor-specific chemoradiotherapy,Tumor-specific chemoradiotherapy,,,,Chemoradiotherapy
+9999,Vehicle,Vehicle,,,,Vehicle
